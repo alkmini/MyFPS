@@ -9,6 +9,6 @@ AI Behavioral tree<br />
 Game loop in Unreal<br />
 Interactable system- opening a door.<br />
 <br />
-Design of an fps scene<br />
-Custom skybox
+Design of an fps scene.<br />
+Custom skybox.
 
